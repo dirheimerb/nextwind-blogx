@@ -9,7 +9,7 @@
     "lint": "next lint",
     "format": "prettier --write .",
     "types:server": "supabase gen types typescript --project-id kesjtpesrpqzggzndisj > src/lib/db_types.ts"
-  },
+  }, 
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "@portabletext/react": "^3.0.4",
