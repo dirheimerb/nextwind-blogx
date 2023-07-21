@@ -1,0 +1,6 @@
+/*
+Home
+Work
+School
+Other
+*/
