@@ -1,15 +1,4 @@
 import Link from 'next/link';
-/**
- * author_id: string;
-    content: string;
-    created_at: string;
-    id: number;
-    is_published: boolean;
-    published_date: string | null;
-    title: string;
-    updated_at: string | null;
- */
-
 interface PostProps {
   id: number;
   title: string;
